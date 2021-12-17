@@ -1,4 +1,9 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "models": "libs/models",
+    "web-applications-configurations": "apps/web-applications/configurations",
+    "web-applications-content": "apps/web-applications/content",
+    "web-applications-permissions": "apps/web-applications/permissions"
+  }
 }
